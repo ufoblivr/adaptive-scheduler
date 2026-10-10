@@ -15,7 +15,7 @@ python3 benchmark.py          # trains the bandit, runs 1,680 simulations (~10 s
 python3 generate_dashboard.py # interactive HTML report
 ```
 
-### 📊 [Live benchmark dashboard](https://YOUR-USERNAME.github.io/YOUR-REPO/)
+### 📊 [Live benchmark dashboard](https://ufoblivr.github.io/adaptive-scheduler/)
 
 [![Benchmark dashboard](docs/dashboard.png)](https://ufoblivr.github.io/YOUR-REPO/)
 
